@@ -2,6 +2,7 @@
   GitHub Profile README
   Account: NIRAJGHUMNANI
   Replace the LinkedIn placeholder only if you want to display your real profile URL.
+  -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:6d28d9,100:0891b2&height=210&section=header&text=NIRAJ%20GHUMNANI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=59&descSize=17&animation=fadeIn" alt="Animated header banner"/>
 <a href="https://git.io/typing-svg">
