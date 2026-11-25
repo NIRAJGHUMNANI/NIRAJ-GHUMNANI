@@ -1,7 +1,6 @@
 <!--
   GitHub Profile README
   Account: NIRAJGHUMNANI
-  Replace the LinkedIn placeholder only if you want to display your real profile URL.
   -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:6d28d9,100:0891b2&height=210&section=header&text=NIRAJ%20GHUMNANI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=59&descSize=17&animation=fadeIn" alt="Animated header banner"/>
@@ -73,9 +72,7 @@ Area	What I'm building and learning
 <div align="center">
 <a href="https://github.com/NIRAJGHUMNANI">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<!-- Add your real LinkedIn URL by replacing YOUR-LINKEDIN-USERNAME below. -->
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/niraj-ghumnani-04a9b52ba/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <br/><br/>
